@@ -86,7 +86,11 @@ git config --global core.excludesfile ~/.gitignore
 ---
 
 ## 4.vscode扩展:Insert Date String 使用
-- 1. 可以输入一个时间 信息
+- 可以输入一个时间 信息
 - 按 Ctrl+Alt+Shift+ I  
 - 在默认参数后面增加时区信息 ZZZZ
-- 输出 2022-08-24 14:23:41 +0800
+- 输出效果: 
+>```java
+>2022-08-24 14:23:41 +0800
+>```
+---
