@@ -1,5 +1,7 @@
 # <center>学习杂记
 ---
+@author iVan
+@date 20220824
 ## git通过token的方式进行push
 源地址:[csdn](https://blog.csdn.net/m0_37844072/article/details/122715958)
 https://blog.csdn.net/m0_37844072/article/details/122715958
