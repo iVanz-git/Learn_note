@@ -1,0 +1,44 @@
+# java开发通用模版 ---iVanz---20220824
+# 来自 https://blog.csdn.net/duguxueao/article/details/120334763
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+replay_pid*
+
+# ============================
+
+# system ignore
+.DS_Store
+node_modules/
+
+##uniapp
+unpackage/
+
+# Editor directories and files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln</code></pre> 
