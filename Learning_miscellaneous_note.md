@@ -80,6 +80,7 @@ git commit -m "msg"
 - 除了可以在项目中定义.gitignore文件外，还可以设置全局的.gitignore文件来管理所有Git项目的行为。
 这种方式在不同的项目开发者之间是不共享的，是属于项目之上Git应用级别的行为。
 可以在任意目录下创建相应的.gitignore文件，然后再使用以下命令配置Git
+```gitignore
 git config --global core.excludesfile ~/.gitignore
-
+```
 ---
