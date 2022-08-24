@@ -1,7 +1,7 @@
 # <center>学习杂记
 ---
 @author iVan
-@date 20220824
+@date 2022-08-24 14:24:33 +0800
 ## git通过token的方式进行push
 源地址:[csdn](https://blog.csdn.net/m0_37844072/article/details/122715958)
 https://blog.csdn.net/m0_37844072/article/details/122715958
@@ -84,3 +84,9 @@ git commit -m "msg"
 git config --global core.excludesfile ~/.gitignore
 ```
 ---
+
+## 4.vscode扩展:Insert Date String 使用
+- 1. 可以输入一个时间 信息
+- 按 Ctrl+Alt+Shift+ I  
+- 在默认参数后面增加时区信息 ZZZZ
+- 输出 2022-08-24 14:23:41 +0800
